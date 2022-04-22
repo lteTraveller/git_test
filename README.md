@@ -1,1 +1,3 @@
-This is Sodiq's first git project
+#git_test
+This is Sodiq's first github repo
+Hello Odin!
